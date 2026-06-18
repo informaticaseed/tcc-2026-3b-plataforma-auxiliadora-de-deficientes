@@ -7,11 +7,10 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| (nome 1) | @username | 3A |
-| (nome 2) | @username | 3A |
-| (nome 3) | @username | 3A |
+| (Jonas Arcanjo dos Reis) | @Jhonatt10 | 3B |
+| (Ana Clara Nakano Santos) | @anaclaranakan-lang | 3B |
 
-**Tema:** (escreva aqui em 1 frase)
+**Tema:** Site para auxiliar pais de deficientes
 **Tecnologia:** Python + Flask + SQLite
 
 ---
