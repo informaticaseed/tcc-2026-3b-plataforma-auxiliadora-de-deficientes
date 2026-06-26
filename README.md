@@ -7,8 +7,8 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| (Jonas Arcanjo dos Reis) | @Jhonatt10 | 3B |
-| (Ana Clara Nakano Santos) | @anaclaranakan-lang | 3B |
+| Jonas Arcanjo dos Reis | @Jhonatt10 | 3B |
+| Ana Clara Nakano Santos | @anaclaranakan-lang | 3B |
 
 **Tema:** Site para auxiliar pais de deficientes
 **Tecnologia:** Python + Flask + SQLite
